@@ -1,5 +1,5 @@
-# SURENDRA-AREMANDLA
-Automatic car wiper using Rain Sensor and sensor diagnosis using Arduino 
+
+# Automatic car wiper using Rain Sensor and sensor diagnosis using Arduino 
 
 #define m0 A0
 #define E1 10  // Enable Pin for motor 1
